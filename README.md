@@ -1,4 +1,4 @@
-# 📈 Orange Customer Churn & Upselling Analysis
+# 📈 Orange Customer Analysis
 
 This project focuses on analyzing and modeling Orange telecom customer data to understand user behavior, identify churn risks, and recommend upselling/downselling strategies using machine learning. A complete data science pipeline is implemented, from raw data handling to interactive prediction using Streamlit.
 
